@@ -8,13 +8,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 
 Your team: group number 5
 
-  - Student 1:  Oussama Ismail
+  - Student 1:  Oussama Ismail 'Oussama2000'
 
-  - Student 2: Wassim Amzil
+  - Student 2: Wassim Amzil 'amzilwassim'
   
   - Student 3: Mouad Hassoun 'mouadhassoun'
 
-  - Student 4: Akram Malyadi
+  - Student 4: Akram Malyadi 'akrammalyadi'
 
 ## Getting Started
 
